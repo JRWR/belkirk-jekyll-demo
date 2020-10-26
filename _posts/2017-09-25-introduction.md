@@ -18,7 +18,7 @@ This site allows you to explore Forestry's features and functionality, and is **
 
 <h1>save</h1>
 
-[codeofcunductcmmc.pdf](/uploads/2020/10/26/codeofcunductcmmc.pdf "codeofcunductcmmc.pdf")
+<center>[codeofcunductcmmc.pdf](/uploads/2020/10/26/codeofcunductcmmc.pdf "this is a pdf!")</center>
 
 > Hello World!
 
